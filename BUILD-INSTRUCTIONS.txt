@@ -1,0 +1,9 @@
+Performance Tracker 0.4.2 source
+
+Windows build steps:
+1. Install Node.js 24.x.
+2. Run `npm ci` in this folder.
+3. Run `npm test` and `npm run typecheck`.
+4. Run `npm run package:win` to build the Windows installer.
+
+The first-time setup form now asks separately for the GM display name and GM username.

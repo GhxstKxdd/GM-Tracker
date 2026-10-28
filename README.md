@@ -6,6 +6,9 @@ An offline desktop app for tracking team performance and monthly reviews.
 - Record agent signatures on reviews.
 - Recover GM login details on this computer.
 - Set a separate GM username and display name during first-time setup.
+- Map spreadsheet columns to monthly KPI, campaign result, or attendance fields before import.
+
+The importer accepts XLSX workbooks and CSV files. It suggests common column matches, lets the manager adjust the mapping for each sheet or file, and previews the mapped rows before they update scorecards.
 
 Data stays on this computer and does not sync between devices.
 

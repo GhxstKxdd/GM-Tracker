@@ -1,0 +1,16 @@
+period,rep,kpi_code,target,actual,notes
+2026-10,Aisha Patel,CALLS_MADE,350,410,October calls
+2026-10,Aisha Patel,DEALS_CLOSED,40,49,October closed deals
+2026-10,Aisha Patel,CONVERSION_RATE,11.5,12.0,October conversion rate
+2026-10,Daniel Mokoena,CALLS_MADE,350,385,October calls
+2026-10,Daniel Mokoena,DEALS_CLOSED,40,42,October closed deals
+2026-10,Daniel Mokoena,CONVERSION_RATE,11.5,10.9,October conversion rate
+2026-10,Lebo Khumalo,CALLS_MADE,350,360,October calls
+2026-10,Lebo Khumalo,DEALS_CLOSED,40,35,October closed deals
+2026-10,Lebo Khumalo,CONVERSION_RATE,11.5,9.7,October conversion rate
+2026-10,Priya Nair,CALLS_MADE,350,430,October calls
+2026-10,Priya Nair,DEALS_CLOSED,40,56,October closed deals
+2026-10,Priya Nair,CONVERSION_RATE,11.5,13.0,October conversion rate
+2026-10,Thabo Dlamini,CALLS_MADE,350,335,October calls
+2026-10,Thabo Dlamini,DEALS_CLOSED,40,31,October closed deals
+2026-10,Thabo Dlamini,CONVERSION_RATE,11.5,9.3,October conversion rate
