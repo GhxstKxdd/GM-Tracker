@@ -12,5 +12,5 @@ The importer accepts XLSX workbooks and CSV files. It suggests common column mat
 
 Data stays on this computer and does not sync between devices.
 
-[Download the Windows installer](https://github.com/GhxstKxdd/GM-Tracker/releases/download/v0.4.2/Performance-Tracker-Setup-0.4.2.exe)
-[Download the source archive](https://github.com/GhxstKxdd/GM-Tracker/releases/download/v0.4.2/Performance-Tracker-Source-0.4.2.zip)
+[Download the Windows installer](https://github.com/GhxstKxdd/GM-Tracker/releases/download/v0.4.3/Performance-Tracker-Setup-0.4.3.exe)
+[Download the source archive](https://github.com/GhxstKxdd/GM-Tracker/releases/download/v0.4.3/Performance-Tracker-Source-0.4.3.zip)

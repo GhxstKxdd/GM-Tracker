@@ -1,6 +1,6 @@
 {
   "name": "performance-tracker-sales",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "private": true,
   "description": "A local-first B2B outbound sales team performance tracker.",
   "main": "out/main/index.js",
